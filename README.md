@@ -1,7 +1,7 @@
-Testing what I've learned here,about git hub!
+Testing what I've learned here,about git hub!</br>
 
 
-git init
+git init </br>
 git add README.md
 git commit -m "first commit"
 git branch -M main
